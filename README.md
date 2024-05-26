@@ -1,5 +1,6 @@
 # Cartpole-with-PyTorch
 
+<<<<<<< HEAD
 This project aims to implement a reinforcement learning algorithm using PyTorch to solve the Cartpole environment from OpenAI Gym. This serves as an introductory project to reinforcement learning with PyTorch.
 
 ## Introduction
@@ -14,3 +15,6 @@ Cartpole is a classic reinforcement learning problem where the goal is to balanc
 
    ```bash
    git clone https://github.com/your-username/Cartpole-with-PyTorch.git
+=======
+This is my First time using pytorch. Cartpole is an ai environment I'm using from openai gym to start learning about reinforcement algorithms in pytorch for future projects.
+>>>>>>> e8e162dfa3944b31ae0d955f0c975b08a5f53c7f
